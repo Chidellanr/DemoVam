@@ -1,1 +1,1 @@
-# DemoVam
+# DemoVam for valuemomentum resources
